@@ -1,34 +1,11 @@
-# Hi, I'm tacojun 👋
+# tacojun
 
-I build and learn through hands-on projects with **JavaScript**, **React**, **Python**, **Flask**, and open-source tools.
+I build small Python tools and React applications, and improve them with tests, CI, and reviewable changes.
 
-## Current focus
+## Projects
 
-- Building small, useful web applications
-- Improving code quality, documentation, and testing
-- Contributing to open-source projects through issues and pull requests
-- Learning modern frontend and backend workflows
+- [Duyuru Kontrol](https://github.com/tacojun/duyuru-kontrol) — a Python command-line tool that checks Turkish announcement dates against weekdays and optional character limits. The project includes 17 automated tests and CI for Python 3.11–3.13.
+- [Flask Chatbot](https://github.com/tacojun/Flask-Chatbot) — a deterministic Flask chatbot demo with a JSON API, input validation, a health endpoint, and tests.
+- [Portfolio Website](https://github.com/tacojun/Portfolio-Website-React-Tailwind-) — a responsive React portfolio with accessible navigation and regression tests.
 
-## Featured projects
-
-### Portfolio Website
-A React-based portfolio project that is being rebuilt into a complete, maintainable application.
-
-[View repository](https://github.com/tacojun/Portfolio-Website-React-Tailwind-)
-
-### Flask Chatbot
-A Python/Flask project that will be expanded with cleaner structure, configuration, tests, and documentation.
-
-[View repository](https://github.com/tacojun/Flask-Chatbot)
-
-## Tech I'm working with
-
-`JavaScript` · `React` · `Python` · `Flask` · `HTML` · `CSS` · `Git` · `GitHub`
-
-## Open-source workflow
-
-I use GitHub issues to plan work, feature branches for changes, and pull requests for reviewable updates. My goal is to keep contributions useful, reproducible, and well documented.
-
----
-
-Thanks for visiting my profile.
+I use issues and pull requests to document and review substantive changes. I am interested in practical open-source developer tooling, including Web3 infrastructure, where I can verify and test a real problem before contributing.
